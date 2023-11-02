@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/home/ashish/personalgit Dsa/Dsa/Assignment 3/.metadata/.plugins/org.eclipse.jdt.core
+724226639.index
+742856278.index
+3041806316.index
+3259594618.index
+1865797976.index
